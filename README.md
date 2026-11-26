@@ -22,13 +22,11 @@ I'm here to start building where those meet: **software for neuroscience, speech
 ### Right now
 
 - 🗣️ Running [BOL Speech and Language Therapy Clinic](https://www.bolspeechclinic.com/meet-your-therapist), including its website, scheduling, and custom teletherapy tools
-- 🔊 Collaborating with engineering students at NUTECH Islamabad on an acoustic voice-analysis app for home speech practice *(in development)*
 - 🛠️ Tracing telematics logs for ELD compliance as a Technical Support Specialist at Motive
-- 📚 Learning computational neuroscience, neuroimaging in R, and Python through Coursera coursework
 
 ### Interests
 
-Computational neuroscience · Speech and voice acoustics · AAC and assistive technology · The bilingual brain · AI in healthcare
+Computational neuroscience · Speech and voice acoustics · AAC and assistive technology
 
 ### Research
 
