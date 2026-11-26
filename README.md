@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iiqratariiq">LinkedIn</a> ·
-  <a href="mailto:contact@bolspeechclinic.com">Email</a> ·
+  <a href="mailto:iqra.tariq@bolspeechclinic.com">Email</a> ·
   <a href="https://www.bolspeechclinic.com/meet-your-therapist">BOL Speech Clinic</a>
 </p>
 
